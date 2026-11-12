@@ -40,8 +40,10 @@ I work across the whole stack: Laravel/Livewire and Node/NestJS backends, React 
 | [Fair operations platform — case study](https://github.com/tuzcuy/atf-fair-platform-case-study) | Architecture write-up of the fair CRM/ERP + Flutter app + floor-plan editor + turnstile/PWA edge ingestion that ran a live international fair (write-up only, no employer code) |
 | [Cora](https://github.com/tuzcuy/cora) | Multi-tenant wholesale ERP: enforced tenant isolation, Decimal pricing engine, ledger-based stock, 167 unit/integration tests + 55/55 e2e in production |
 | [Selektör](https://github.com/tuzcuy/selektor) | Social discovery app concept built end to end: Flutter client, 37 Cloud Functions, custom face-verification microservice on Cloud Run, privacy-by-design (plates stored only as HMAC) |
-| [shopify-orders-app](https://github.com/tuzcuy/shopify-orders-app) | Laravel + Vue app integrating the Shopify Orders API |
+| [shopify-orders-app](https://github.com/tuzcuy/shopify-orders-app) | Laravel 11 + Vue 3 dashboard syncing orders from the Shopify Admin API into MySQL |
 
 ## Contact
 
-The fastest way to reach me is through my website: [yigittuzcu.com](https://www.yigittuzcu.com)
+- Website: [yigittuzcu.com](https://www.yigittuzcu.com)
+- LinkedIn: [linkedin.com/in/yigittuzcu](https://www.linkedin.com/in/yigittuzcu)
+- Email: yigittuzcu@gmail.com
