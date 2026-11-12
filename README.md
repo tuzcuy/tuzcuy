@@ -41,7 +41,7 @@ I work across the whole stack: Laravel/Livewire and Node/NestJS backends, React 
 | [laravel-vue-billing-demo](https://github.com/tuzcuy/laravel-vue-billing-demo) | Billing dashboard: Laravel API + Vue 3 SPA, invoice status machine, integer-cents money handling, 57 PHPUnit tests, Docker + green CI |
 | [grounded-rag](https://github.com/tuzcuy/grounded-rag) | RAG document Q&A with sentence-level citations: from-scratch BM25 + embeddings + RRF fusion, groundedness scoring, measured eval harness — runs with no API key |
 | [slotbook](https://github.com/tuzcuy/slotbook) | Appointment scheduling: Next.js + TypeScript + Prisma, DST-aware slot engine, race-proof double-booking guard (e2e-verified 201/409), Playwright + vitest + CI |
-| [Cora — case study](https://github.com/tuzcuy/cora-case-study) | Multi-tenant wholesale ERP: enforced tenant isolation, Decimal pricing engine, ledger-based stock, 167 unit/integration tests + 55/55 e2e in production (source private) |
+| [Cora](https://github.com/tuzcuy/cora) | Multi-tenant wholesale ERP (quote → order → warehouse → shipment): Prisma-enforced tenant isolation, Decimal pricing engine, ledger-based stock — 57 unit + 125 integration tests, source-available (AGPL) |
 | [Selektör](https://github.com/tuzcuy/selektor) | Social discovery app concept built end to end: Flutter client, 37 Cloud Functions, custom face-verification microservice on Cloud Run, privacy-by-design (plates stored only as HMAC) — architecture case study, source private |
 | [shopify-orders-app](https://github.com/tuzcuy/shopify-orders-app) | Laravel 11 + Vue 3 dashboard syncing orders from the Shopify Admin API into MySQL |
 
